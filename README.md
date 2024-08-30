@@ -117,6 +117,10 @@ Like this:
 
 For detailed EC2 setup instructions, please refer to [AWS Compute Labs](https://github.com/DaudCloud-sudo/AWS-Compute-Labs).
 
+15. Once you upload a photo from the app, you should be able to view it in the S3 bucket.
+
+![image](https://github.com/user-attachments/assets/0c54fbcd-1d09-4430-9745-b8302bb76ff7)
+
 ## Task 5: Deleting the Object from the S3 Bucket
 
 1. Open the Amazon S3 console.
