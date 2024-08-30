@@ -2,7 +2,7 @@
 
 # Creating an S3 Bucket and Modifying the EC2 Instance
 
-In this scenario, we will create an S3 bucket to store employee photos, upload an object to it, modify the bucket policy, and launch an EC2 instance with updated user data to use the S3 bucket. Finally, we will stop the EC2 instance to prevent future costs.
+In this lab, we will create an S3 bucket to store employee photos, upload an object to it, modify the bucket policy, and launch an EC2 instance with updated user data to use the S3 bucket. Finally, we will stop the EC2 instance to prevent future costs.
 
 ## Table of Contents
 - [Task 1: Creating an S3 Bucket](#task-1-creating-an-s3-bucket)
